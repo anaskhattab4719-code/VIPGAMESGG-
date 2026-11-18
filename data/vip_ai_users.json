@@ -1,0 +1,11 @@
+[
+  {
+    "id": "usr_1794893720994",
+    "email": "verify_1794893720980@vip.local",
+    "name": "Verifier",
+    "role": "AI & App Creator",
+    "salt": "db17107c9293c698de986a462d646a57",
+    "passwordHash": "9496d0ee2a5a69a5e0bcddd1078693c4284307491dcf106cc2456d2c7c5b5caddf95af86bdf4926b9a3331898eadb5b822896cdc3eb96e3936363c7ea252d6d1",
+    "createdAt": "2026-11-17T05:35:21.055Z"
+  }
+]

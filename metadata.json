@@ -1,0 +1,6 @@
+{
+  "name": "VIP AI",
+  "description": "VIP AI — Complete AI creation platform featuring an intelligent assistant, animated rubber-hose mascot, Unreal Engine 5 game creator, image/video/audio studios, programming IDE, and chess.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

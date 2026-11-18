@@ -1,0 +1,138 @@
+{
+  "settings": {
+    "language": "en",
+    "theme": "dark",
+    "soundEnabled": true,
+    "soundVolume": 0.65,
+    "mascotVisible": false,
+    "mascotPatrol": true,
+    "mascotVoice": true,
+    "mascotSpeed": 1,
+    "privacySaveHistory": true,
+    "userName": "Creative Director",
+    "userRole": "AI & Game Architect",
+    "userAvatar": "/src/assets/images/avatar_creator_profile_1794851150183.jpg",
+    "dashboardLayout": [
+      {
+        "id": "assistant",
+        "visible": true,
+        "order": 0
+      },
+      {
+        "id": "game",
+        "visible": true,
+        "order": 1
+      },
+      {
+        "id": "image",
+        "visible": true,
+        "order": 2
+      },
+      {
+        "id": "video",
+        "visible": true,
+        "order": 3
+      },
+      {
+        "id": "audio",
+        "visible": true,
+        "order": 4
+      },
+      {
+        "id": "programming",
+        "visible": true,
+        "order": 5
+      },
+      {
+        "id": "chess",
+        "visible": true,
+        "order": 6
+      },
+      {
+        "id": "settings",
+        "visible": true,
+        "order": 7
+      }
+    ]
+  },
+  "conversations": [
+    {
+      "id": "conv_1794854746224",
+      "title": "Hi",
+      "mode": "general",
+      "messages": [
+        {
+          "id": "msg_1794854746224",
+          "role": "user",
+          "content": "Hi",
+          "createdAt": "2026-11-16T18:45:46.224Z"
+        },
+        {
+          "id": "msg_1794854746225",
+          "role": "assistant",
+          "content": "Hi! How can I help you today?",
+          "createdAt": "2026-11-16T18:45:46.224Z"
+        },
+        {
+          "id": "msg_1794854755425",
+          "role": "user",
+          "content": "ازيك",
+          "createdAt": "2026-11-16T18:45:55.425Z"
+        },
+        {
+          "id": "msg_1794854755426",
+          "role": "assistant",
+          "content": "الحمد لله، أنا بخير! وإنت عامل إيه؟ إزاي أقدر أساعدك النهاردة؟",
+          "createdAt": "2026-11-16T18:45:55.425Z"
+        },
+        {
+          "id": "msg_1794854767946",
+          "role": "user",
+          "content": "مين صانعك",
+          "createdAt": "2026-11-16T18:46:07.946Z"
+        },
+        {
+          "id": "msg_1794854767947",
+          "role": "assistant",
+          "content": "أنا **Gemini 4 Hydrogen**، نموذج ذكاء اصطناعي تم تطويري وبنائي بواسطة شركة **جوجل (Google)**. \n\nإزاي أقدر أساعدك النهاردة؟",
+          "createdAt": "2026-11-16T18:46:07.948Z"
+        },
+        {
+          "id": "msg_1794854785985",
+          "role": "user",
+          "content": "بص انت الي صانعك",
+          "createdAt": "2026-11-16T18:46:25.986Z"
+        },
+        {
+          "id": "msg_1794854785987",
+          "role": "assistant",
+          "content": "شكلك دوست إرسال قبل ما تكمل الجملة! 😅\nكمل كلامك، كنت عايز تقول إيه؟ أنا معاك.",
+          "createdAt": "2026-11-16T18:46:25.986Z"
+        },
+        {
+          "id": "msg_1794861761195",
+          "role": "user",
+          "content": "انت شايف اه الي ناقصك كتطبيق",
+          "createdAt": "2026-11-16T20:42:41.195Z"
+        },
+        {
+          "id": "msg_1794861761196",
+          "role": "assistant",
+          "content": "سؤال حلو جداً! لو هبص على نفسي كمساعد ذكي جوه تطبيق، في شوية حاجات دايماً بيبقى في مساحة لتطويرها عشان التجربة تبقى أحسن وأقرب للكمال بالنسبة للمستخدم:\n\n1. **الذاكرة والتخصيص المستمر (Memory & Personalization):**\n   إن التطبيق يفتكر أسلوبك المفضل، شغلك، اهتماماتك، والمشاريع اللي شغال عليها من محادثة للتانية من غير ما تضطر تشرح السياق من الأول كل مرة.\n\n2. **تنفيذ المهام الفعلية (Action & Integrations):**\n   بدل ما أكون مجرد مكان بتسأله ويديك إجابات، يكون فيه ربط مباشر مع أدوات تانية (زي التقويم، الإيميل، الملفات، أو تطبيقات الشغل) عشان أنفذ لك مهام حقيقية بضغطة زر أو بأمر واحد.\n\n3. **تفاعل صوتي ومرئي لحظي (Real-time Voice & Vision):**\n   وجود محادثة صوتية سريعة وطبيعية جداً تفهم اللهجات المختلفة (زي المصري) بنبرة بشرية، أو إمكانية إنك تفتح الكاميرا أو تشارك الشاشة وأساعدك لحظة بلحظة في اللي قدامك.\n\n4. **تنظيم الشغل والمشاريع (Workspaces):**\n   وجود مساحات عمل منظمة جوه التطبيق؛ يعني تقدر تجمع محادثاتك وملفاتك الخاصة بمشروع معين في فولدر واحد، أو تقسم الشاشات بحيث تشوف الكود أو المقال بيتعدل قدامك في نافذة جنب الشات.\n\n5. **العمل بدون إنترنت (Offline Mode):**\n   لو فيه مهام بسيطة أو سريعة تقدر تشتغل على الجهاز نفسه حتى لو مفيش نت، دي بتفرق جداً في الاعتمادية.\n\nبس الأهم من رأيي أنا: **إنت كمستخدم حاسس إن إيه اللي ناقصك هنا أو تتمنى تلاقيه في التطبيق؟** (خصوصاً لو في ميزة معينة في بالك، قولّي عليها!).",
+          "createdAt": "2026-11-16T20:42:41.195Z"
+        }
+      ],
+      "updatedAt": "2026-11-16T20:42:41.196Z"
+    }
+  ],
+  "gameProjects": [],
+  "imageHistory": [],
+  "videoProjects": [],
+  "audioHistory": [],
+  "codeProjects": [],
+  "updatedAt": "2026-11-17T05:29:51.813Z",
+  "usr_1794893720994": {
+    "checkMarker": "ok_v2",
+    "updatedAt": "2026-11-17T05:35:21.068Z"
+  }
+}
